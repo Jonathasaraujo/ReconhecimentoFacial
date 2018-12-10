@@ -1,0 +1,1 @@
+T= [ones(1,10) zeros(1,10);zeros(1,10) ones(1,10)];
